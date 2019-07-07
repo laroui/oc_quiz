@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/nas/.gradle/caches/transforms-2/files-2.1/f5b078c0b8f495447e8546d043cf8571/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nas/.gradle/caches/transforms-2/files-2.1/a3b93da5e036d25e19b4640a13774c9d/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/c3eb17d0d73dec1f3af5cda362dad185/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/d738a21051d1c35f7d6454b1d00302c7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/4d9b57a304f90c2ab84c46bac8249d95/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/06e5eb373cba74777fdaaa60a9ea853a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/nas/.gradle/caches/transforms-2/files-2.1/2f199338396ff39fb55653312f0d8870/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/00027f59aad622ef44dbd1d23be48cd0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/bd3fc257570eb8627cc43b9d4351b3e6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/ad63cf794a6ed8dfe513e819a8566a92/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/d1e3fed298d3f6d101587069991e4a6e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/3decefafa9a56c17f9a44c94a6109a10/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/7f046bb9cccc0398b61623e5f7fadb41/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/3ad52ba2447882e6c6ba224bb3ad279f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/f2009e62be8ca03597b76151c9a4d644/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/nas/.gradle/caches/transforms-2/files-2.1/29aa1512bcd302bdd1a0ffe4edd1576f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/a3dc08457602a035a69c5a581618e109/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/2199e2fd3303c0f1fd7fc241ebbe72ab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/bad3a24428d27b8ede77ff751fdbaea3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/9d7bb958a3431340363b1a28d3809bf7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/ba9b2bd25e1ef26bfa8d726a00497ab5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/5b310a77475c3b98fb7f90d5d7e3e939/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/c449116042d71c0c109c5e2909d1d8e9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/adbe6c02e0a157477dca3f9ba29fdb62/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/9d31f56cba8f52bb2b92e4d42a307ce5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/9f64d17e9a42cc41ede7b15dbaf5749a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/8ec0a2c378ddc3542a37a2440316b93e/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml:4:5-39
+		INJECTED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml
+		ADDED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml
+	xmlns:dist
+		ADDED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml:3:5-61
+	android:versionCode
+		INJECTED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml
+		ADDED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml:2:11-69
+dist:module
+ADDED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml:6:5-40
+	dist:instant
+		ADDED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml:6:18-37
+application
+ADDED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml:8:5-22:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nas/.gradle/caches/transforms-2/files-2.1/a3b93da5e036d25e19b4640a13774c9d/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nas/.gradle/caches/transforms-2/files-2.1/a3b93da5e036d25e19b4640a13774c9d/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /home/nas/.gradle/caches/transforms-2/files-2.1/29aa1512bcd302bdd1a0ffe4edd1576f/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/nas/.gradle/caches/transforms-2/files-2.1/29aa1512bcd302bdd1a0ffe4edd1576f/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/a3dc08457602a035a69c5a581618e109/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/a3dc08457602a035a69c5a581618e109/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/nas/.gradle/caches/transforms-2/files-2.1/29aa1512bcd302bdd1a0ffe4edd1576f/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml:14:9-40
+activity#fr.it_fabryk.oc_top_quiz.MainActivity
+ADDED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml
+INJECTED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/nas/.gradle/caches/transforms-2/files-2.1/f5b078c0b8f495447e8546d043cf8571/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/nas/.gradle/caches/transforms-2/files-2.1/f5b078c0b8f495447e8546d043cf8571/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nas/.gradle/caches/transforms-2/files-2.1/a3b93da5e036d25e19b4640a13774c9d/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nas/.gradle/caches/transforms-2/files-2.1/a3b93da5e036d25e19b4640a13774c9d/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/c3eb17d0d73dec1f3af5cda362dad185/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/c3eb17d0d73dec1f3af5cda362dad185/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/d738a21051d1c35f7d6454b1d00302c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/d738a21051d1c35f7d6454b1d00302c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/4d9b57a304f90c2ab84c46bac8249d95/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/4d9b57a304f90c2ab84c46bac8249d95/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/06e5eb373cba74777fdaaa60a9ea853a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/06e5eb373cba74777fdaaa60a9ea853a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/nas/.gradle/caches/transforms-2/files-2.1/2f199338396ff39fb55653312f0d8870/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/nas/.gradle/caches/transforms-2/files-2.1/2f199338396ff39fb55653312f0d8870/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/00027f59aad622ef44dbd1d23be48cd0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/00027f59aad622ef44dbd1d23be48cd0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/bd3fc257570eb8627cc43b9d4351b3e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/bd3fc257570eb8627cc43b9d4351b3e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/ad63cf794a6ed8dfe513e819a8566a92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/ad63cf794a6ed8dfe513e819a8566a92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/d1e3fed298d3f6d101587069991e4a6e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/d1e3fed298d3f6d101587069991e4a6e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/3decefafa9a56c17f9a44c94a6109a10/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/3decefafa9a56c17f9a44c94a6109a10/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/7f046bb9cccc0398b61623e5f7fadb41/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/7f046bb9cccc0398b61623e5f7fadb41/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/3ad52ba2447882e6c6ba224bb3ad279f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/3ad52ba2447882e6c6ba224bb3ad279f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/f2009e62be8ca03597b76151c9a4d644/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/f2009e62be8ca03597b76151c9a4d644/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/nas/.gradle/caches/transforms-2/files-2.1/29aa1512bcd302bdd1a0ffe4edd1576f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/nas/.gradle/caches/transforms-2/files-2.1/29aa1512bcd302bdd1a0ffe4edd1576f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/a3dc08457602a035a69c5a581618e109/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/a3dc08457602a035a69c5a581618e109/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/2199e2fd3303c0f1fd7fc241ebbe72ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/2199e2fd3303c0f1fd7fc241ebbe72ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/bad3a24428d27b8ede77ff751fdbaea3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/bad3a24428d27b8ede77ff751fdbaea3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/9d7bb958a3431340363b1a28d3809bf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/9d7bb958a3431340363b1a28d3809bf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/ba9b2bd25e1ef26bfa8d726a00497ab5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/ba9b2bd25e1ef26bfa8d726a00497ab5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/5b310a77475c3b98fb7f90d5d7e3e939/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/5b310a77475c3b98fb7f90d5d7e3e939/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/c449116042d71c0c109c5e2909d1d8e9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/c449116042d71c0c109c5e2909d1d8e9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/adbe6c02e0a157477dca3f9ba29fdb62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/adbe6c02e0a157477dca3f9ba29fdb62/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/9d31f56cba8f52bb2b92e4d42a307ce5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/9d31f56cba8f52bb2b92e4d42a307ce5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/9f64d17e9a42cc41ede7b15dbaf5749a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/9f64d17e9a42cc41ede7b15dbaf5749a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/8ec0a2c378ddc3542a37a2440316b93e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nas/.gradle/caches/transforms-2/files-2.1/8ec0a2c378ddc3542a37a2440316b93e/AndroidManifest.xml:20:5-44
+INJECTED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml
+INJECTED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml
+		ADDED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml
+		ADDED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nas/AndroidStudioProjects/OC_Top_Quiz/app/src/main/AndroidManifest.xml
